@@ -41,7 +41,4 @@
 ###
 
 <br clear="both">
-
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/32591321?v=4"  />
-
 ###
