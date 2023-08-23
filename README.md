@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is 0-0-SiLeNt-0-0 and I'm a Full Stack Developer from India</h1>
+<h1 align="left">Hi 👋! My name is SiLeNt-Seeker and I'm a Full Stack Developer from India</h1>
 
 ###
 
