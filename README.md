@@ -56,9 +56,10 @@
 
 
 <br>
-<p align="left">
-        <img width="49.5%"
-            src="https://github-readme-stats.vercel.app/api?username=abu-tahir-0&show_icons=true&include_all_commits=true&theme=holi&hide_border=true">
-             <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-tahir-0&theme=holi&hide_border=true">		
-</p>
+<table>
+  <tr>
+    <td><img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abu-tahir-0&show_icons=true&include_all_commits=true&theme=holi&hide_border=true"></td>
+    <td><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-tahir-0&theme=holi&hide_border=true"></td>
+  </tr>
+</table>
 <br>
