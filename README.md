@@ -64,7 +64,7 @@
 </table>
 <br>
 
-[![Abu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abu-tahir-0&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)
+[![Abu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abu-tahir-0&bg_color=000000&color=ffffff&line=ffa047&point=58b100&area=true&hide_border=true)
 
 
 <p align="center"><img src="https://profile-counter.glitch.me/{abu-tahir-0}/count.svg"></p>
