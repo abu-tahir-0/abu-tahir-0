@@ -55,7 +55,7 @@
 
 
 
-<br />
+<br>
 <p align="left">
         <img width="49.5%"
             src="https://github-readme-stats.vercel.app/api?username=abu-tahir-0&show_icons=true&include_all_commits=true&theme=holi&hide_border=true">
