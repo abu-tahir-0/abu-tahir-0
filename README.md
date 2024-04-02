@@ -63,3 +63,10 @@
   </tr>
 </table>
 <br>
+
+
+<p align="center">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-tahir-0&theme=chartreuse-dark&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  
+</p>
+
