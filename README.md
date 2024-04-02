@@ -40,7 +40,7 @@
 
 
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQ3NzFybWltN25xMHZkbXZ2aXFvdmphcWR4eTVkNXdtemt6c215dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif" width="30"> Statistics
 
 <br/>
 <p align="left">
