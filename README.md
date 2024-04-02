@@ -1,6 +1,6 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+👋+I'm+Abu+Tahir.;I+am+a+Full+Stack+Web+Dev.;I+love+Coding.;I+love+PC+Games.;&center=true&width=500&height=50"></a>
-</p>
+<h4 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+👋+I'm+Abu+Tahir.;I+am+a+Full+Stack+Web+Developer.;I+love+Coding.;I+love+PC+Games.;&center=true&width=500&height=50"></a>
+</ph4>
 
 <div align="center">
     <img src="https://static.cdnlogo.com/logos/l/23/laravel.svg" height="30" alt="laravel logo" />
