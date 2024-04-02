@@ -37,3 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
+
+
+<div>[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abu-tahir-0)](https://github.com/ashutosh00710/github-readme-activity-graph)</div>
