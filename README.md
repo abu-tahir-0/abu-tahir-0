@@ -64,7 +64,7 @@
 </table>
 <br>
 
-![Abu's github activity graph](https://activity-graph.herokuapp.com/graph?username=abu-tahir-0&theme=react-dark&hide_border=true)
+[![Abu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abu-tahir-0&high-contrast&point=1b03d3&area=true&hide_border=true)]
 
 
 <p align="center"><img src="https://profile-counter.glitch.me/{abu-tahir-0}/count.svg"></p>
