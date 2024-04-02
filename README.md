@@ -44,8 +44,8 @@
 <br/>
 <p align="left">
   <a href="#">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abu-tahir-0&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-tahir-0&theme=radical&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abu-tahir-0&show_icons=true&include_all_commits=true&theme=dark&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-tahir-0&theme=dark&hide_border=true">		  
   </a>
 </p>
 <br>
