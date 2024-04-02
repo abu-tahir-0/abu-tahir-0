@@ -1,7 +1,7 @@
 
-<h3 align="center">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi! 👋 +I'm+Abu Tahir.;I+am+a-Developer.;I+love+Coding.;I+love+Playing+Games.;&center=true&width=500&height=50"></a>
-</h3>
+</p>
 
 
 ###
