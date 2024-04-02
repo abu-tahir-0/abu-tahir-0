@@ -1,7 +1,7 @@
+<h1 align="center">Hi! 👋 I'm Abu Tahir</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Abu+Tahir.;I+love+coding.;I+love+playing+games.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Torrin.;I+love+open-source.;I+love+Blender.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
-
 
 <div align="center">
     <img src="https://static.cdnlogo.com/logos/l/23/laravel.svg" height="30" alt="laravel logo" />
