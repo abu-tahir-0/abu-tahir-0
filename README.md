@@ -58,8 +58,8 @@
 <br>
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none;"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=abu-tahir-0&show_icons=true&include_all_commits=true&theme=holi&hide_border=true"></td>
-    <td style="border: none;"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-tahir-0&theme=holi&hide_border=true"></td>
+    <td style="border: none;"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=abu-tahir-0&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true"></td>
+    <td style="border: none;"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-tahir-0&theme=ambient_gradient&hide_border=true"></td>
   </tr>
 </table>
 <br>
