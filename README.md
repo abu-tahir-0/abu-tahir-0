@@ -1,6 +1,5 @@
-<h1 align="center">Hi! 👋 I'm Abu Tahir</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Abu+Tahir.;I+love+open-source.;I+love+Blender.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+👋+I'm+Abu+Tahir.;I+am+a+Full+Stack+Web+Dev.;I+love+Coding.;I+love+PC+Games.;&center=true&width=500&height=50"></a>
 </p>
 
 <div align="center">
