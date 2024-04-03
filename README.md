@@ -66,6 +66,6 @@
 
 [![Abu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abu-tahir-0&bg_color=000000&color=7fff00&line=58b100&point=58b100&area=true&hide_border=true)](https://github.com/abu-tahir-0/)
 
-<h5>Visitors Counter </h5>
+
 <p align="center"><img src="https://profile-counter.glitch.me/{abu-tahir-0}/count.svg"></p>
 
