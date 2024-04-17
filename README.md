@@ -1,5 +1,5 @@
 <h4 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+👋+I'm+Abu+Tahir.;I+am+a+Full-Stack+Developer.;I+love+Coding.;I+love+PC+Games.;&center=true&width=500&height=50"></a>
+  <a href="https://abutahir.tech"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+👋+I'm+Abu+Tahir.;I+am+a+Full-Stack+Developer.;I+love+Coding.;I+love+PC+Games.;&center=true&width=500&height=50"></a>
 </ph4>
 
 <div align="center">
