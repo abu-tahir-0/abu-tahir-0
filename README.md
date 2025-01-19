@@ -13,7 +13,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
     <img width="12" />
-
     <!-- PHP Ecosystem -->
     <img src="https://static.cdnlogo.com/logos/l/23/laravel.svg" height="30" alt="laravel logo" />
     <img width="12" />
@@ -21,7 +20,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo" />
     <img width="12" />
-
     <!-- Mobile Development -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
     <img width="12" />
@@ -31,7 +29,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" />
     <img width="12" />
-
     <!-- Databases -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
     <img width="12" />
@@ -39,7 +36,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
     <img width="12" />
-
     <!-- Frontend -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
     <img width="12" />
@@ -53,7 +49,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
     <img width="12" />
-
     <!-- DevOps & Tools -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
     <img width="12" />
@@ -69,7 +64,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="google cloud logo" />
     <img width="12" />
-
     <!-- Other Tools -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
     <img width="12" />
