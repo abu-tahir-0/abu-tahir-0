@@ -14,10 +14,10 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: abu-tahir-0/checkout@v1  # Replace with your own action
+        uses: actions/checkout@v4
 
       - name: Generate Snake SVG
-        uses: abu-tahir-0/snk-svg-only@v1  # Replace with your own action
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -25,8 +25,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to Output Branch
-        uses: abu-tahir-0/ghaction-github-pages@v1  # Replace with your own action
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
           keep_files: false
