@@ -93,5 +93,10 @@
 
 [![Abu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abu-tahir-0&bg_color=000000&color=7fff00&line=58b100&point=58b100&area=true&hide_border=true)](https://github.com/abu-tahir-0/)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abu-tahir-0/abu-tahir-0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abu-tahir-0/abu-tahir-0/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/abu-tahir-0/abu-tahir-0/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{abu-tahir-0}/count.svg"></p>
