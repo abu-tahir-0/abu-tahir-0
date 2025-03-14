@@ -86,7 +86,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=abu-tahir-0&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true"></td>
-    <td style="border: none;"><img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=abu-tahir-0&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"></td>
+    <td style="border: none;"><img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=abu-tahir-0&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D"></td>
   </tr>
 </table>
 <br>
