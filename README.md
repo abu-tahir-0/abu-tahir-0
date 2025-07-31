@@ -2,8 +2,9 @@
   <a href="https://abutahir.tech"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+👋+I'm+Abu+Tahir.;A+Full-Stack+Developer.;I+love+Coding.;I+love+Games.;&center=true&width=500&height=50"></a>
 </ph4>
 
+
 <div align="center">
-    <!-- JavaScript Ecosystem -->
+   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
