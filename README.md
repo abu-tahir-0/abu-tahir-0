@@ -1,6 +1,7 @@
 <h4 align="center">
   <a href="https://abutahir.tech"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+👋+I'm+Abu+Tahir.;A+Full-Stack+Developer.;I+love+Coding.;I+love+Games.;&center=true&width=500&height=50"></a>
 </ph4>
+
 <div align="center">
    <!-- Javascript Ecosystem -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
