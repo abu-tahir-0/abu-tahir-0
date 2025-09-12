@@ -86,3 +86,9 @@
   <a href="https://linkedin.com/in/abu-tahir-0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:contact@abutahir.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abu-tahir-0&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/abu-tahir-0?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+</p>
