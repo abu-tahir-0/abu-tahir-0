@@ -93,18 +93,3 @@
   <img src="https://img.shields.io/github/followers/abu-tahir-0?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abu-tahir-0&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>  
-<img src="https://nirzak-streak-stats.vercel.app?user=abu-tahir-0&theme=radical&hide_border=true" height="180"/>  
-
-<!-- Total Stars Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=abu-tahir-0&show_icons=true&hide=prs,issues,contribs&theme=radical&hide_border=true&count_private=true&custom_title=⭐%20Total%20Stars" height="150"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abu-tahir-0&theme=radical" height="150"/>  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abu-tahir-0&theme=radical" height="150"/>  
-
-</div>
