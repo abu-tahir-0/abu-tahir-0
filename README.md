@@ -12,7 +12,6 @@
 ## 💡 About Me  
 - 🔭 Currently working on **Web & Mobile Applications**  
 - 🌱 Learning & exploring **Cloud DevOps, Microservices, and System Design**  
-- 👯 Open to collaborating on **Full-Stack and Open-Source Projects**  
 - 🎯 Goal: To build scalable, secure, and impactful software  
 - ⚡ Fun fact: I’m a **gamer and a coding enthusiast**  
 
