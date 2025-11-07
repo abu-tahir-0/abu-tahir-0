@@ -6,9 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Open-Source+Enthusiast;I+Love+Coding+💻;I+Love+Gaming+🎮;&center=true&width=500&height=50">
   </a>
 </p>
-
-
-
 ---
 
 ## 💡 About Me  
