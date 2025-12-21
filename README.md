@@ -147,9 +147,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abu-tahir-0&theme=onestar&no-frame=false&no-bg=true&margin-w=4" alt="Trophies">
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abu-tahir-0&bg_color=000000&color=7fff00&line=58b100&point=58b100&area=true&hide_border=true" alt="Activity Graph">
